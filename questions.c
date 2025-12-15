@@ -1,4 +1,5 @@
-// Online C compiler to run C program online
+Question:- 1D Array
+
 #include <stdio.h>
 
 int main() 
